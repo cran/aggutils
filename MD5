@@ -1,0 +1,14 @@
+269dd3b1cfd3ad69c1a8389d54158a2f *DESCRIPTION
+812471610c57c11f781515358a35223c *LICENSE
+a61bd852ee092b2c7fe1e1da9b1aded9 *NAMESPACE
+b4d92e0354d89ae4356dbab017887ebb *R/agg.R
+7f2094c7b4d5faa522b624cffc621f8b *build/partial.rdb
+7d6bef897af2d52be0d0fc697f337e5e *man/geoMeanCalc.Rd
+ba4e68bd242a93ac971198b5e785a698 *man/geoMeanOfOddsCalc.Rd
+5807cd08a4b6e7379800958a17e2e03f *man/hd_trim.Rd
+6e2181153c2773aa863d343230242e0c *man/neymanAggCalc.Rd
+d24ccbd5a213755e8d32ca8bfcb370ef *man/preprocess.Rd
+115d9db5be6a8c68ae611250a96a718b *man/soften_mean.Rd
+ae3c99e61a816835ab4a3c6cb04c1f3f *man/trim.Rd
+dd92ec3e129fae7af686be418ddba3e9 *tests/testthat.R
+678db5e497eee2a9acba325c142136fb *tests/testthat/test-agg.R
